@@ -44,4 +44,4 @@ Batch #0 -- URL #1 0.02
 Total time for all batches: 0.18
 [[200, 200], [200, 200, 200], [200, 200]]
 ```
-The order that the batches are sent is not important, but notice that the URLs from each batch are in order. The total time for all of the batches is always slightly longer than whichever individual call takes the longest.
+The order that the batches are sent is not important, but notice that the URLs from each batch are in order. The total time for all of the batches is always slightly longer than whichever individual batch takes the longest.
